@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MINERVA VASO",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77685546875,
+          -24.86650252692691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GRAND ACE6",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.866943359375,
+          -6.81735282262214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ELKA DELPHI",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.686279296875,
+          -34.84085858477277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALIAI",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.224365234375,
+          -34.37064492478658
+        ]
+      }
+    }
+  ]
+}

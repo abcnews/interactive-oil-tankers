@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [52.732109, 24.158875] },
+      "properties": { "country": "UAE", "port": "RUWAIS", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-62.070503, -38.924] },
+      "properties": {
+        "country": "ARGENTINA",
+        "port": "PUERTO ROSALES",
+        "ships": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [115.07613, 5.022632] },
+      "properties": { "country": "BRUNEI", "port": "MUARA", "ships": 4 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.40181, 4.782757] },
+      "properties": {
+        "country": "BRUNEI",
+        "port": "SERIA TERMINAL ANCH",
+        "ships": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.62845, 22.673817] },
+      "properties": { "country": "CHINA", "port": "HUIZHOU", "ships": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [119.29856, 25.431063] },
+      "properties": { "country": "CHINA", "port": "JIANGYIN", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [69.817986, 22.460398] },
+      "properties": { "country": "INDIA", "port": "SIKKA", "ships": 5 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [135.41357, 34.532719] },
+      "properties": { "country": "JAPAN", "port": "SAKAI", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [139.66394, 35.412148] },
+      "properties": { "country": "JAPAN", "port": "YOKOHAMA", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [136.6555, 34.961502] },
+      "properties": { "country": "JAPAN", "port": "YOKKAICHI", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [129.36333, 35.437519] },
+      "properties": { "country": "KOREA", "port": "ONSAN", "ships": 3 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [126.3826, 37.015301] },
+      "properties": { "country": "KOREA", "port": "DAESAN", "ships": 2 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [127.67079, 34.740623] },
+      "properties": { "country": "KOREA", "port": "YEOSU", "ships": 5 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [129.38275, 35.511063] },
+      "properties": { "country": "KOREA", "port": "ULSAN", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.91187, 1.432973] },
+      "properties": {
+        "country": "MALAYSIA",
+        "port": "PASIR GUDANG",
+        "ships": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.13611, 5.843641] },
+      "properties": {
+        "country": "MALAYSIA",
+        "port": "DULANG OIL FIELD",
+        "ships": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [102.12788, 2.245725] },
+      "properties": {
+        "country": "MALAYSIA",
+        "port": "SUNGAI UDANG",
+        "ships": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.01044, 1.441632] },
+      "properties": {
+        "country": "MALAYSIA",
+        "port": "TANJUNG LANGSAT",
+        "ships": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [114.29488, 5.873869] },
+      "properties": { "country": "MALAYSIA", "port": "FPSO KIKEH", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [113.98367, 4.410943] },
+      "properties": { "country": "MALAYSIA", "port": "MIRI", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [104.1722, 1.32957] },
+      "properties": { "country": "MALAYSIA", "port": "PENGERANG", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [147.1239, -9.447374] },
+      "properties": { "country": "PNG", "port": "PORT MORSEBY", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [103.75445, 1.259366] },
+      "properties": { "country": "SINGAPORE", "port": "SINGAPORE", "ships": 14 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.18581, 23.788485] },
+      "properties": { "country": "TAIWAN", "port": "MAILIAO", "ships": 3 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [120.31815, 22.584251] },
+      "properties": { "country": "TAIWAN", "port": "KAOHSIUNG", "ships": 3 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-90.145889, 29.956688] },
+      "properties": { "country": "US", "port": "NEW ORLEANS", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-97.467926, 27.827538] },
+      "properties": { "country": "US", "port": "CORPUS CHRISTI", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [108.40031, 10.425499] },
+      "properties": { "country": "VIETNAM", "port": "SU TU DEN", "ships": 1 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [107.95048, 9.733314] },
+      "properties": {
+        "country": "VIETNAM",
+        "port": "VIETSOVPETRO 01",
+        "ships": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.4356, -33.9095] },
+      "properties": {
+        "country": "SOUTH AFRICA",
+        "port": "CAPE TOWN",
+        "ships": 1
+      }
+    }
+  ]
+}

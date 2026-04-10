@@ -1,7 +1,7 @@
 {
-  "name": "interactive-oil-market-crisis",
+  "name": "interactive-oil-tankers",
   "private": true,
-  "version": "1.0.1-pre",
+  "version": "1.0.0",
   "description": "A project generated from aunty's svelte project template.",
   "license": "MIT",
   "type": "module",

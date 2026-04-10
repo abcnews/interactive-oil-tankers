@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "STI SOLACE", "role": "destination" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.84228515625, -32.40779154205703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "FRONT COSMOS", "role": "destination" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.7890625, -40.96330795307352]
+      }
+    }
+  ]
+}

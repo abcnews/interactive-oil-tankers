@@ -1,0 +1,705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SILVER LONDON",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.78058624267578,
+          -32.92397841044573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HAFNIA LARVIK",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.22964477539062,
+          -38.3448874424628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NAVIG8 PERSEVERANCE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.76942825317383,
+          -32.89169608080793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RONG LIN WAN",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.017578125,
+          -16.21467458824854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TORM GLORIA",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.988525390625,
+          3.57921278586064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATLANTIC DIAMOND",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.1328125,
+          12.94032212838463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SEAWAYS MOMENT",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.74658203125,
+          -33.00636021320538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSK VALIANT",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4190673828125,
+          -11.237674247416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOURION",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.87772369384766,
+          -12.48954326702232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STI ESLES II",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.74958806618929,
+          -32.23298471608094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALPINE SPIRIT",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.334716796875,
+          -32.70411114440741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ROYAL CHEMIST",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.71188354492188,
+          -20.64563576223016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YUAN JING HE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.939453125,
+          -20.10752326882399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AYOE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.57269287109375,
+          -20.31887233939871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TORM GANGA",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.67567443847656,
+          1.54407881202053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LA DIGUE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9261474609375,
+          -37.87051721701938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FOREVER CONFIDENCE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.65478515625,
+          -30.69933500437197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GOLDEN SAGITTARIUS",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.7899169921875,
+          -6.23339464632495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TORM GABRIELLA",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.15216064453125,
+          -27.38396203008555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GRAND WINNER 2",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.66314697265625,
+          28.2971258244929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TONG LIN WAN",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.23672485351562,
+          22.91539313569981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FOREVER BRILLIANCY",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3304901123047,
+          -23.85444203709688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SABRINA GLORY",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.373046875,
+          19.18667769795783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QI LIN ZUO",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.957763671875,
+          33.04665895171397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QI LIN ZUO",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.129638671875,
+          1.68066713375073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STI SOHO",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.93310544075496,
+          15.1357642455996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHALLENGE PROSPECT II",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.26182556152344,
+          -23.83340268570913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GRAND ACE12",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20277404785156,
+          -33.9800934233485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GRAND WINNER 3",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20277404785156,
+          -33.9800934233485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHANG HANG XI WANG",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6923828125,
+          20.28280869133005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAPITAL",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.218017578125,
+          6.29345876039399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KLEON",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.76568603515625,
+          -32.24068253457368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HAFNIA GALATEA",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20861053466797,
+          -33.98265563205841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PROTEUS JESSICA",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2330780029297,
+          -38.35027253825764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EAGLE LE HAVRE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0595703125,
+          11.86197510349453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TORM DAPHNE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.234619140625,
+          -35.8445345042166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JOCELYN GLORY",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92752075195312,
+          -37.86726491715301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "REN MA ZUO",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.160400390625,
+          -27.38030375235113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SEA WOLF",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.57183456420898,
+          -20.31935527768677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GRAND ACE6",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5050048828125,
+          -14.90763016579966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CLEAROCEAN MARAUDER",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.5037841796875,
+          0.86514046315166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GOLDEN HACHI",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7845344543457,
+          -32.92181701503725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WISDOM VENTURE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5869140625,
+          -35.32633026307483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DIAMOND EXPRESS",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8794403076172,
+          -12.48820247078801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STI ST CHARLES",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.47854614257812,
+          -34.77997173591063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SEAWAYS SHENANDOAH",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4827880859375,
+          6.48452534126519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SEAWAYS SHENANDOAH",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82763671875,
+          7.80896312055939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SEAWAYS SHENANDOAH",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.15902709960938,
+          -27.38579112358291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SEARANGER",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1597137451172,
+          -27.38152319170505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GEM TURQUOISE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.83399200439453,
+          -19.24406031586434
+        ]
+      }
+    }
+  ]
+}

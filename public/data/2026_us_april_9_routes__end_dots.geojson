@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HANSA SEALANCER",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.35351562500001,
+          -21.86149873437257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAERSK CYPRUS",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.41015625000003,
+          10.14193168613103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COPENHAGEN STAR",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.91015625,
+          -38.82259097617711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATLANTIC SUNSHINE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -173.14453125000003,
+          -8.79822545901635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BETELGEUSE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.56787109375003,
+          34.16181816123039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ELANDRA FIRTH",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.36376953125,
+          1.05462794227589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LARGO EAGLE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.9189453125,
+          -23.20096080807857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CAPE ANDIAMO",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.66162109375,
+          -24.68695241199914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NORD VENTURA",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.59863281250001,
+          -6.17332365401504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CL ZHAOGE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.43750000000003,
+          -21.28937435586042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ELANDRA MELODY",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.79370117187501,
+          7.40060034574209
+        ]
+      }
+    }
+  ]
+}

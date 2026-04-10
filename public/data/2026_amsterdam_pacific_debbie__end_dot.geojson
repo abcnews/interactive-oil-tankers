@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PACIFIC DEBBIE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.392822265625, 37.85316995894978]
+      }
+    }
+  ]
+}

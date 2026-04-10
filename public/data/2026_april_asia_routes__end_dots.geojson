@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HAFNIA PUMA",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5062255859375,
+          -2.76199118099182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NORD VIRAGE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1116943359375,
+          -6.52273003733541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS ROTTERDAM",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6480712890625,
+          -21.17672864097082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GRAND WINNER 1",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.4462890625,
+          -33.45894275368763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FOREVER CORDIALITY",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.14901733398438,
+          -6.84871416486481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MORNING IBIS",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.439453125,
+          22.32975230437648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TOPAZ EXPRESS",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.545166015625,
+          -23.88081490545854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HAFNIA LILLESAND",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.1376953125,
+          -23.61432859499168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FOREVER CONVIVIALITY",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.35533142089844,
+          33.11627472754512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HELLAS APHRODITE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.824462890625,
+          25.00099430002896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GLORIOUS SUNSHINE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7376708984375,
+          -10.33653608708297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ASPEN EXPRESS",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.70887756347656,
+          1.07934289424623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STI MARSHALL",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.76263427734375,
+          -5.9575584886075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ARDMORE ENCOUNTER",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.32936096191406,
+          -6.34805647685935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PROTEUS SINEAD",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.84930419921875,
+          8.10545773128431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PROTEUS SINEAD",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.17276000976562,
+          -27.35652199874747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YUAN TANG WAN",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.833251953125,
+          -2.28455066023696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HAFNIA BOBCAT",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.68798828125,
+          -1.32373476101129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ARDMORE SEAWOLF",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.905517578125,
+          -13.85941386907402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STI MAGISTER",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.9315185546875,
+          -7.60210787470289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STI VIRTUS",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.520263671875,
+          -10.91961776025468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ARDMORE GIBRALTAR",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4515380859375,
+          -17.13029174353376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YUAN YU HE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.80084228515625,
+          -32.9141796617935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FPMC P IDEAL",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21015548706055,
+          -33.97254869368019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DUCHESS OF DORIA",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.38953399658203,
+          -38.09106640228494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SILVER ELLIE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.90672302246094,
+          -11.37233879214113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DAT MERCURY",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.12060546875,
+          -38.95940879245423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PS SYDNEY",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0048828125,
+          -11.62533531134869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ARREBOL",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.048828125,
+          -34.68968634758934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HAFNIA PETREL",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8929443359375,
+          -3.02532662829492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QUETTA",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.912353515625,
+          5.0909441750334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YASA LION",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.27349853515625,
+          -34.02079493601871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GOLDEN UNITY",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2470703125,
+          -28.61345942400441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PACIFIC SUNSTONE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6695556640625,
+          -31.90787305636021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CL AGATHA CHRISTIE",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92202758789062,
+          -37.86075988676519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WISTERIA",
+        "role": "destination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.87583541870117,
+          -12.48954326702232
+        ]
+      }
+    }
+  ]
+}
