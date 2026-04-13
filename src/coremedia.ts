@@ -2,24 +2,18 @@
  * @file
  * CoreMedia entrypoint. Creates a non-module coremedia.js in your build.
  */
-import acto from '@abcnews/alternating-case-to-object';
-import { whenOdysseyLoaded } from '@abcnews/env-utils';
-import { getMountValue, selectMounts } from '@abcnews/mount-utils';
-import App from './App.svelte';
-import { mount } from 'svelte';
-
-console.log("Script loading....")
+import { whenOdysseyLoaded } from "@abcnews/env-utils";
+import { getMountValue, selectMounts } from "@abcnews/mount-utils";
+import App from "./App.svelte";
+import { mount } from "svelte";
 
 whenOdysseyLoaded.then(() => {
-  console.log("Hello World!")
-  const [appMountEl] = selectMounts('interactiveoilmarketcrisis');
+  const documentBody = document.body;
 
-  if (appMountEl) {
-    const appProps = acto(getMountValue(appMountEl));
-
+  if (documentBody) {
     mount(App, {
-      target: appMountEl,
-      props: appProps
+      target: documentBody,
+      props: {},
     });
   }
 });
